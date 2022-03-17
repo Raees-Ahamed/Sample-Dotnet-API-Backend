@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SampleTest.Core/1.0.0": {
+        "dependencies": {
+          "SampleTest.Shared": "1.0.0"
+        },
+        "runtime": {
+          "SampleTest.Core.dll": {}
+        }
+      },
+      "SampleTest.Shared/1.0.0": {
+        "runtime": {
+          "SampleTest.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleTest.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleTest.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

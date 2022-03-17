@@ -1,0 +1,15 @@
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\SampleTest.Core.deps.json
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\SampleTest.Core.dll
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\ref\SampleTest.Core.dll
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\SampleTest.Core.pdb
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.csproj.AssemblyReference.cache
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.AssemblyInfoInputs.cache
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.AssemblyInfo.cs
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.dll
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\ref\SampleTest.Core.dll
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.pdb
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\SampleTest.Shared.dll
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\bin\Debug\net5.0\SampleTest.Shared.pdb
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.csproj.CopyComplete
