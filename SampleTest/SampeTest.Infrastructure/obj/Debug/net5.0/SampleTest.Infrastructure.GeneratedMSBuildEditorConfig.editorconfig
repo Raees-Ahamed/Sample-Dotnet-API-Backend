@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = SampleTest.Infrastructure
-build_property.ProjectDir = C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\SampleTest\SampeTest.Infrastructure\
+build_property.ProjectDir = C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampeTest.Infrastructure\

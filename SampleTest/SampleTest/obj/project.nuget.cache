@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "71uQ4Nb3sRZZ+woMi4SwSG6BUZ6VaMhELqqIzU3+TuafJ93RloaBcoEwbIQ0cbf6yZnhV8y6BBYxiXF/QlF5Gg==",
+  "dgSpecHash": "XTWRgMWQkb9FQTaxmVCw8JkPijZ8vWLPR7NrMjz0gj70lTY0xSw/p3erFVOlvKgMCcaGdG9ZFnX/IgNalJqfIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest\\SampleTest.csproj",
+  "projectFilePath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest\\SampleTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

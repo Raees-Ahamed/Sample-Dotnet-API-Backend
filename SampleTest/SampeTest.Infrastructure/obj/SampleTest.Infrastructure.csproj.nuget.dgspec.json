@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {}
+    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {
+    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj",
         "projectName": "SampleTest.Infrastructure",
-        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj": {
-                "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj"
+              "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj": {
+                "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj"
               }
             }
           }
@@ -87,14 +87,14 @@
         }
       }
     },
-    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj": {
+    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
+        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
         "projectName": "SampleTest.Core",
-        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
+        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
         "packagesPath": "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\obj\\",
+        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -114,8 +114,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj": {
-                "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj"
+              "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj": {
+                "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj": {
+    "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj",
         "projectName": "SampleTest.Shared",
-        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj",
+        "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\SampleTest.Shared.csproj",
         "packagesPath": "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Shared\\obj\\",
+        "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

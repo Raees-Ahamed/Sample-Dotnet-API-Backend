@@ -6111,11 +6111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest\\SampleTest.csproj",
+      "projectUniqueName": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest\\SampleTest.csproj",
       "projectName": "SampleTest",
-      "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest\\SampleTest.csproj",
+      "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest\\SampleTest.csproj",
       "packagesPath": "C:\\Users\\MASS RAEES SAMMAN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest\\obj\\",
+      "outputPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6135,8 +6135,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj"
+            "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampeTest.Infrastructure\\SampleTest.Infrastructure.csproj"
             }
           }
         }

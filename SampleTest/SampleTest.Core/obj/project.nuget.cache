@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vwJeWl5oXuJJ/pOmxou1TCURS1IE9agZQ9PoVEqVmZ5I0aDx3Uk0Y8TKxwsRsSjOVF4q/zhbaEOUeYJB5WpgMQ==",
+  "dgSpecHash": "AKhp5G6K8hNUrgs5p47ZaBWENQENkgQtYGi+UKvimBAMN7/6Se05uoFCBcEVgf+4bpvwR/cOcbPNEsfWW047fQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
+  "projectFilePath": "C:\\Users\\MASS RAEES SAMMAN\\source\\repos\\TestingProject\\Sample-Dotnet-API-Backend\\SampleTest\\SampleTest.Core\\SampleTest.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
