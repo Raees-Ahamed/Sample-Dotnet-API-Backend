@@ -9,6 +9,7 @@ namespace SampleTest.Core.Repositories
     public interface IUnitOfWork
     {
         ICustomerRepository CustomerRepository { get; }
+        IProductRepository ProductRepository { get; }
         Task <int> CommitAsync();
     }
 }

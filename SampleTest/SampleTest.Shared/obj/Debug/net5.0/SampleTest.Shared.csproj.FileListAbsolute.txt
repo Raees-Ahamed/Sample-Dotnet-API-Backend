@@ -14,7 +14,6 @@ C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\bin\Debug\net5.0\SampleTest.Shared.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\bin\Debug\net5.0\ref\SampleTest.Shared.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\bin\Debug\net5.0\SampleTest.Shared.pdb
-C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\obj\Debug\net5.0\SampleTest.Shared.csproj.AssemblyReference.cache
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\obj\Debug\net5.0\SampleTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\obj\Debug\net5.0\SampleTest.Shared.AssemblyInfoInputs.cache
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Shared\obj\Debug\net5.0\SampleTest.Shared.AssemblyInfo.cs

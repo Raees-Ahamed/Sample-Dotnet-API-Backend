@@ -139,3 +139,4 @@ C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\ref\SampleTest.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.pdb
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.genruntimeconfig.cache
+C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.csproj.CopyComplete

@@ -24,7 +24,6 @@ C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.AssemblyInfoInputs.cache
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.AssemblyInfo.cs
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.csproj.CoreCompileInputs.cache
-C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.csproj.CopyComplete
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\ref\SampleTest.Core.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest.Core\obj\Debug\net5.0\SampleTest.Core.pdb
