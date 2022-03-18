@@ -135,7 +135,6 @@ C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\staticwebassets\SampleTest.StaticWebAssets.xml
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\scopedcss\bundle\SampleTest.styles.css
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.RazorTargetAssemblyInfo.cache
-C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.csproj.CopyComplete
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\ref\SampleTest.dll
 C:\Users\MASS RAEES SAMMAN\source\repos\TestingProject\Sample-Dotnet-API-Backend\SampleTest\SampleTest\obj\Debug\net5.0\SampleTest.pdb

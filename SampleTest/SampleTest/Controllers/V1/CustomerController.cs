@@ -27,7 +27,7 @@ namespace SampleTest.Controllers.V1
         {
             var newCustomer = mapper.Map<Customer>(customer);
             await customerService.CreateAsync(newCustomer);
-            return new JsonResult(new { message = "Upcoming updated successfully" }) { StatusCode = StatusCodes.Status200OK };
+            return new JsonResult(new { message = "Added a customer successfully" }) { StatusCode = StatusCodes.Status200OK };
         }
 
         [HttpGet]
@@ -47,7 +47,13 @@ namespace SampleTest.Controllers.V1
         public async Task<ActionResult> UpdateCustomer(UpdateCustomerDto UpdateCustomer) {
             var mappedUpdatedCustomer = mapper.Map<Customer>(UpdateCustomer);
             await customerService.UpdateAsync(mappedUpdatedCustomer);
-            return new JsonResult(new { message = "Upcoming updated successfully" }) { StatusCode = StatusCodes.Status200OK };
+            return new JsonResult(new { message = "Customer updated successfully" }) { StatusCode = StatusCodes.Status200OK };
+        }
+
+        [HttpDelete]
+        public async Task<ActionResult> DeleteCustomer(string Id) {
+            await customerService.DeleteAsync(Id);
+            return new JsonResult(new { message = "Deleted customer successfully" }) { StatusCode = StatusCodes.Status200OK };
         }
     }
 }
