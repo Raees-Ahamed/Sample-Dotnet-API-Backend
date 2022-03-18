@@ -14,6 +14,7 @@ namespace SampleTest.Profiles
         {
             CreateMap<CustomerCreateDto, Customer>().ReverseMap();
             CreateMap<CustomerDto, Customer>().ReverseMap();
+            CreateMap<UpdateCustomerDto, Customer>().ReverseMap();
         }
     }
 }

@@ -16,17 +16,18 @@ namespace SampleTest.Controllers.V1
     public class CustomerController : BaseApiController
     {
         private readonly ICustomerService customerService;
+        
+        public CustomerController(ICustomerService customerService, IMapper mapper) : base(mapper)
+        {
+            this.customerService = customerService;
+        }
 
         [HttpPost]
         public async Task<ActionResult> CreateCustomer(CustomerCreateDto customer)
         {
             var newCustomer = mapper.Map<Customer>(customer);
             await customerService.CreateAsync(newCustomer);
-            return Ok();
-        }
-        public CustomerController(ICustomerService customerService, IMapper mapper) : base(mapper)
-        {
-            this.customerService = customerService;
+            return new JsonResult(new { message = "Upcoming updated successfully" }) { StatusCode = StatusCodes.Status200OK };
         }
 
         [HttpGet]
@@ -40,6 +41,13 @@ namespace SampleTest.Controllers.V1
         {
             var response = await customerService.GetAsync(Id);            
             return Ok(mapper.Map<CustomerDto>(response));
-        }       
+        }
+
+        [HttpPut]
+        public async Task<ActionResult> UpdateCustomer(UpdateCustomerDto UpdateCustomer) {
+            var mappedUpdatedCustomer = mapper.Map<Customer>(UpdateCustomer);
+            await customerService.UpdateAsync(mappedUpdatedCustomer);
+            return new JsonResult(new { message = "Upcoming updated successfully" }) { StatusCode = StatusCodes.Status200OK };
+        }
     }
 }
